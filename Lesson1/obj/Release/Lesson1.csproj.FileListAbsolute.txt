@@ -1,6 +1,0 @@
-D:\Studies\С# BASICS\Lesson1\bin\Release\Lesson1.exe.config
-D:\Studies\С# BASICS\Lesson1\bin\Release\Lesson1.exe
-D:\Studies\С# BASICS\Lesson1\bin\Release\Lesson1.pdb
-D:\Studies\С# BASICS\Lesson1\obj\Release\Lesson1.csproj.CoreCompileInputs.cache
-D:\Studies\С# BASICS\Lesson1\obj\Release\Lesson1.exe
-D:\Studies\С# BASICS\Lesson1\obj\Release\Lesson1.pdb

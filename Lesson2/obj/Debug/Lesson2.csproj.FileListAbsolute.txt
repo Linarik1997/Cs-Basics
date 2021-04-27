@@ -1,7 +1,0 @@
-D:\Studies\С# BASICS\Lesson2\bin\Debug\Lesson2.exe.config
-D:\Studies\С# BASICS\Lesson2\bin\Debug\Lesson2.exe
-D:\Studies\С# BASICS\Lesson2\bin\Debug\Lesson2.pdb
-D:\Studies\С# BASICS\Lesson2\obj\Debug\Lesson2.csprojAssemblyReference.cache
-D:\Studies\С# BASICS\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
-D:\Studies\С# BASICS\Lesson2\obj\Debug\Lesson2.exe
-D:\Studies\С# BASICS\Lesson2\obj\Debug\Lesson2.pdb

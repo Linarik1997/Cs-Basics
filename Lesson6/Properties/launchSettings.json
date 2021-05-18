@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lesson6": {
+      "commandName": "Project",
+      "commandLineArgs": "k Skype"
+    }
+  }
+}
